@@ -16,11 +16,29 @@ body{
 background-color: rgb(233, 170, 248);
     color: rgb(32, 29, 34);
 }
+section{
+background-color: #E010A9;
+padding-top: 67px;
+padding-bottom: 80px;
+display: block;
+justify-content: center;
+}
+        .primeira chamada{
+margin-right: 5%;
+.mais videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
+        }
     section{
 background-color: #E010A9;
 margin: 50px;
 display: block;
-padding: left 30px; ;
+padding: left 30px; 
 border-color: rgb(20, 33, 223);
 
     }
+    
